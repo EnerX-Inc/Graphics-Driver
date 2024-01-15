@@ -1,4 +1,4 @@
-Graphics Driver script to upgrade performances on Roblox !
+EnerX is a Graphics Driver script to upgrade performances on Roblox !
 
 This Roblox script is a virtual
 Graphics Driver to upgrade performances
