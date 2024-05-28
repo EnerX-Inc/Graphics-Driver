@@ -7,4 +7,6 @@ on Roblox.This Graphics Driver has been made
 to upgrade low-devices experience and upgrade
 performance & stability.
 
+Compatibility:Check *COMPATIBILITY.md* for more info
+
 **Powered by EnerX**
