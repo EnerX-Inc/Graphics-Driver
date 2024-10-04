@@ -9,7 +9,7 @@ performance & stability.
 
 Compatibility:Check [Compatibility.md](https://github.com/EnerX-Inc/Graphics-Driver/blob/main/COMPATIBILITY.md) for more info
 
-**WARNING:This project has been discontinuated since May 28 2024**
+**WARNING:This project has been discontinuated since May 28 2024,Performances Improvements are no longer guaranteed**
 
 **Powered by EnerX**
 
