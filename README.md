@@ -8,6 +8,7 @@ to upgrade low-devices experience and upgrade
 performance & stability.
 
 Compatibility:Check [Compatibility.md](https://github.com/EnerX-Inc/Graphics-Driver/blob/main/COMPATIBILITY.md) for more info
+
 **WARNING:This project has been discontinuated since May 28 2024**
 
 **Powered by EnerX**
