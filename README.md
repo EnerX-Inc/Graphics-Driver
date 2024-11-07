@@ -1,9 +1,8 @@
 # Graphics Driver
 Graphics Driver script to upgrade performances on Roblox !
 
-This Roblox script is a virtual
-Graphics Driver made by EnerX to upgrade performances
-on Roblox.This Graphics Driver has been made
+This Roblox script is a performance script made by EnerX to upgrade performances
+on Roblox.This Graphics Changer has been made
 to upgrade low-devices experience and upgrade
 performance & stability.
 
